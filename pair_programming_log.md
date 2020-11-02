@@ -32,4 +32,4 @@ Ryan Voges, 60 minutes
 Summary: Worked on HMWK 2 addendum questions
 Driver order and time length
 Ryan Voges, 60 Minutes
-Jack Baldwin, 60 Minutes
+Jack Baldwin, 60 Minutes 
