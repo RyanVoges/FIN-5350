@@ -1,0 +1,6 @@
+K - Strike price
+T - Time to maturity
+r - Interest rate
+F - foreward price
+The difference between the call and put premia is equal to the present value of the foreward price minus the strike price
+S - the price of the stock
